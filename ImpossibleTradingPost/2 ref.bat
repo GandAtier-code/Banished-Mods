@@ -1,0 +1,1 @@
+..\..\bin\x64\Application-x64-profile.exe /ref impossibleResources.rsc:resource /pathres ../MyMods/ImpossibleTradingPost /pathdat ../MyMods/ImpossibleTradingPost/bin

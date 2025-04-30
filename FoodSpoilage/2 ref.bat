@@ -1,0 +1,1 @@
+..\..\bin\x64\Application-x64-profile.exe /ref FoodSpoilage.rsc:resource /pathres ../MyMods/FoodSpoilage /pathdat ../MyMods/FoodSpoilage/bin

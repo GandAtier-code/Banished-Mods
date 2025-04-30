@@ -1,0 +1,2 @@
+..\..\bin\x64\Tools-x64.exe /build FoodSpoilage.rsc:resource /pathres ../MyMods/FoodSpoilage /pathdat ../MyMods/FoodSpoilage/bin
+..\..\bin\x64\Tools-x64.exe /mod Package.rsc:FoodSpoilage /pathres ../MyMods/FoodSpoilage /pathdat ../MyMods/FoodSpoilage/bin

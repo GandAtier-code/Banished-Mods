@@ -1,0 +1,2 @@
+..\..\bin\x64\Tools-x64.exe /build impossibleResources.rsc:resource /pathres ../MyMods/ImpossibleTradingPost /pathdat ../MyMods/ImpossibleTradingPost/bin
+..\..\bin\x64\Tools-x64.exe /mod Package.rsc:ImpossibleTradingPost /pathres ../MyMods/ImpossibleTradingPost /pathdat ../MyMods/ImpossibleTradingPost/bin

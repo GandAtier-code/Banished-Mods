@@ -1,0 +1,1 @@
+..\..\bin\x64\Application-x64-profile.exe /ref nomadResources.rsc:resource /pathres ../MyMods/EagerNomads /pathdat ../MyMods/EagerNomads/bin

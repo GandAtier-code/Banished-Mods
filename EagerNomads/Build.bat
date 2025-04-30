@@ -1,0 +1,2 @@
+..\..\bin\x64\Tools-x64.exe /build nomadResources.rsc:resource /pathres ../MyMods/EagerNomads /pathdat ../MyMods/EagerNomads/bin
+..\..\bin\x64\Tools-x64.exe /mod Package.rsc:EagerNomads /pathres ../MyMods/EagerNomads /pathdat ../MyMods/EagerNomads/bin
