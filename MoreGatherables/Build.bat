@@ -1,0 +1,2 @@
+..\..\bin\x64\Tools-x64.exe /build gatherableResources.rsc:resource /pathres ../MyMods/MoreGatherables /pathdat ../MyMods/MoreGatherables/bin
+..\..\bin\x64\Tools-x64.exe /mod Package.rsc:MoreGatherables /pathres ../MyMods/MoreGatherables /pathdat ../MyMods/MoreGatherables/bin

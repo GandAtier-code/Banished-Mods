@@ -1,0 +1,1 @@
+..\..\bin\x64\Application-x64-profile.exe /ref gatherableResources.rsc:resource /pathres ../MyMods/MoreGatherables /pathdat ../MyMods/MoreGatherables/bin
